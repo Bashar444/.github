@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/Bashar444/.github/blob/main/SECURITY.md
+    about: Report security issues privately. Do not open a public issue.
+  - name: Research collaboration
+    url: https://orcid.org/0009-0004-5178-2345
+    about: Academic profile and contact details of the maintainer.
