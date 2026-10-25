@@ -1,6 +1,6 @@
 # Community health files
 
-Default community health files for every repository under [@Bashar444](https://github.com/Bashar444). GitHub applies a file from here to any repository that does not define its own.
+Default community health files for every repository under [@bashar-al-agha](https://github.com/bashar-al-agha). GitHub applies a file from here to any repository that does not define its own.
 
 | File | Purpose |
 |---|---|
@@ -11,4 +11,4 @@ Default community health files for every repository under [@Bashar444](https://g
 | [.github/ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE) | Bug report and feature request forms |
 | [.github/PULL_REQUEST_TEMPLATE.md](.github/PULL_REQUEST_TEMPLATE.md) | Pull request checklist |
 
-Licence files cannot be inherited this way, so each repository carries its own. New MIT-licensed projects start from [mit-project-template](https://github.com/Bashar444/mit-project-template).
+Licence files cannot be inherited this way, so each repository carries its own. New MIT-licensed projects start from [mit-project-template](https://github.com/bashar-al-agha/mit-project-template).

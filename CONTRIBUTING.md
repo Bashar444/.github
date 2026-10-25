@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for considering a contribution. This guide applies to every repository under [@Bashar444](https://github.com/Bashar444) that does not ship its own `CONTRIBUTING.md`.
+Thank you for considering a contribution. This guide applies to every repository under [@bashar-al-agha](https://github.com/bashar-al-agha) that does not ship its own `CONTRIBUTING.md`.
 
 ## Before you start
 
